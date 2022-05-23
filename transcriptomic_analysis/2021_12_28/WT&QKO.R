@@ -121,4 +121,5 @@ pheatmap(log2(de_heat + 1), border_color = NA, cellwidth = 20,
 dev.off()
 dev.off()
 
-
+for i in range(12):
+inp
